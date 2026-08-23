@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 5 | 0 | 5 | 0 |
+| LeetCode | 6 | 0 | 6 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **5** | **0** | **5** | **0** |
+| **Total** | **6** | **0** | **6** | **0** |
 
 ## Solved Problems
 
@@ -17,7 +17,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | --- | --- | --- | --- | --- | --- |
 | 1 | [1158. Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1158_MarketAnalysisI.cpp) |
 | 2 | [1204. Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1204_LastPersonToFitInTheBus.cpp) |
-| 3 | [394. Decode String](https://leetcode.com/problems/decode-string/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/394_DecodeString.java) |
-| 4 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/49_GroupAnagrams.java) |
-| 5 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/50_PowxN.java) |
+| 3 | [365. Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/365_WaterAndJugProblem.java) |
+| 4 | [394. Decode String](https://leetcode.com/problems/decode-string/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/394_DecodeString.java) |
+| 5 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/49_GroupAnagrams.java) |
+| 6 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/50_PowxN.java) |
 <!-- COMMITDSA_END -->
