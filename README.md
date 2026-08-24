@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 6 | 0 | 6 | 0 |
+| LeetCode | 7 | 0 | 7 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **6** | **0** | **6** | **0** |
+| **Total** | **7** | **0** | **7** | **0** |
 
 ## Solved Problems
 
@@ -21,4 +21,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 4 | [394. Decode String](https://leetcode.com/problems/decode-string/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/394_DecodeString.java) |
 | 5 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/49_GroupAnagrams.java) |
 | 6 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/50_PowxN.java) |
+| 7 | [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/858_MirrorReflection.java) |
 <!-- COMMITDSA_END -->
