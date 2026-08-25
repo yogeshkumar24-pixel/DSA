@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 10 | 0 | 10 | 0 |
+| LeetCode | 11 | 0 | 11 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **10** | **0** | **10** | **0** |
+| **Total** | **11** | **0** | **11** | **0** |
 
 ## Solved Problems
 
@@ -24,5 +24,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 7 | [464. Can I Win](https://leetcode.com/problems/can-i-win/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/464_CanIWin.java) |
 | 8 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/49_GroupAnagrams.java) |
 | 9 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/50_PowxN.java) |
-| 10 | [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/858_MirrorReflection.java) |
+| 10 | [754. Reach a Number](https://leetcode.com/problems/reach-a-number/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/754_ReachANumber.java) |
+| 11 | [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/858_MirrorReflection.java) |
 <!-- COMMITDSA_END -->
