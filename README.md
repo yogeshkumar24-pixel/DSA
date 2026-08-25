@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 9 | 0 | 9 | 0 |
+| LeetCode | 10 | 0 | 10 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **9** | **0** | **9** | **0** |
+| **Total** | **10** | **0** | **10** | **0** |
 
 ## Solved Problems
 
@@ -21,7 +21,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 4 | [394. Decode String](https://leetcode.com/problems/decode-string/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/394_DecodeString.java) |
 | 5 | [400. Nth Digit](https://leetcode.com/problems/nth-digit/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/400_NthDigit.java) |
 | 6 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/402_RemoveKDigits.java) |
-| 7 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/49_GroupAnagrams.java) |
-| 8 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/50_PowxN.java) |
-| 9 | [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/858_MirrorReflection.java) |
+| 7 | [464. Can I Win](https://leetcode.com/problems/can-i-win/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/464_CanIWin.java) |
+| 8 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/49_GroupAnagrams.java) |
+| 9 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/50_PowxN.java) |
+| 10 | [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/858_MirrorReflection.java) |
 <!-- COMMITDSA_END -->
